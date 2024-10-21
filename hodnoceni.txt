@@ -1,0 +1,3 @@
+xmager00 100 (GUI, odmocnina)
+xlapci03 100 (zakladne matematicke operacie, Makefile, vyhodnocovanie vyrazov)
+xspankt00 100 (profiling, instalátor, testy)

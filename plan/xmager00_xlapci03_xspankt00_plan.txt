@@ -1,0 +1,71 @@
+# encoding utf-8
+
+-----------------------------------------
+
+Predbezny plan pre 2.projekt 
+Tym: TBD
+
+-----------------------------------------
+
+Terminy
+
+14.03. odovzdanie predbezneho planu
+16.03. interne dokoncenie planu
+*****************************************
+24.03. priprava TDD testov pre matematicku kniznicu
+03.04. dokoncenie/ otestovanie kniznice
+14.04. dokumentacia
+21.04. GUI
+23.04. testovanie finalneho produktu
+*****************************************
+25.04. odovzdanie finalnej verzie
+26.04.-29.04. priprava prezentacie na obhajobu
+29.04.-3.05. obhajoby
+
+-----------------------------------------
+
+Rozdelenie prace medzi clenov
+
+Celotymova praca
+
+- dokumentacia
+- schvalenie funkcii kalkulacky
+- prezenatcia pre obahjobu
+- matematicka kniznica a jej testovanie (rozdelenie bude dodatocne upravene)
+- kontrola vizualnej stranky GUI
+- duma nad specialnou funkciou kalkulacky
+
+xmager00
+
+- zalozenie repozitaru
+- priebezna kontrola pokroku
+- tvorba minimalnej kostry GUI
+
+xlapci03
+
+- vytvorenie mockup GUI
+- zhotovenie Makefile
+
+xspankt00
+
+- zhotovenie programu pre smerodatnu odchylku 
+- profiling
+- zhotovenie uzivatelskej prirucky 
+
+-----------------------------------------
+
+Komuniakcne kanaly
+
+- Discord
+- GitHub
+- Trello
+- Tymove stretnutia
+
+-----------------------------------------
+
+Zvoleny system pre spravu verzii a hosting
+
+- System pre spravu verzii : Git
+- Hosting :  https://github.com/
+	- repozitar spristupneny pre ucet ivskontrola
+

@@ -1,0 +1,51 @@
+# encoding utf-8
+
+-----------------------------------------
+
+Skutocnost priebehu prace na projekte
+Tym: TBD
+
+-----------------------------------------
+
+Dokoncenie casti
+
+14.03. odovzdanie predbezneho planu
+16.03. interne dokoncenie planu
+*****************************************
+10.04 (plan:24.03.) priprava TDD testov pre matematicku kniznicu
+13.04 (plan:03.04.) dokoncenie/ otestovanie kniznice
+14.04 (plan:) integracia GUI a kniznice
+15.04 (plan:21.04.) GUI
+14.04. dokumentacia
+23.04. testovanie finalneho produktu
+*****************************************
+25.04. odovzdanie finalnej verzie
+26.04.-29.04. priprava prezentacie na obhajobu
+29.04.-3.05. obhajoby
+
+-----------------------------------------
+
+Rozdelenie prace medzi clenov
+
+Rozdelenie prace a jednotlive ulohy medzi clenov tymu
+zostali rovnake ako v predbeznom plane
+
+-----------------------------------------
+
+Komuniakcne kanaly
+
+Trello bolo vymenene za Miro whiteboard, ktory sa dalo lahsie 
+personalizovat a prehladnejsie zadavat clenom ulohy
+
+-----------------------------------------
+
+Zhodnotenie rozdielov
+
+Implementacia testov a kniznice bola opozdena o tyzden
+
+Pri praci na kniznicii sa doslo na nezhodu v plane a urychlila 
+sa implementacia GUI pre ucely testovania a doladovania bugov 
+v komunikacii backend-frontend
+
+Generacia dokumentacie sa presunula na zaver projektu
+
